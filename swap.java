@@ -10,8 +10,6 @@ public class swap {
         int b = sc.nextInt();
 
         System.out.println("Before swapping: a="+a+",b="+b);
-
-        // Swapping logic
         int temp=a;
         a=b;
         b=temp;
